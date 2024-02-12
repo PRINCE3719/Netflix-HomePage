@@ -17,6 +17,7 @@ body {
     background-color: #000;
     color: #fff;
     width: 100%;
+    padding: 0;
 }
 
 .section1 {
@@ -181,29 +182,13 @@ body {
     gap: 20px;
 }
 
-.sec-one {
-    width: 50%;
-    margin-top: 5rem;
-    height: 35vh;
-}
 
-.sec-one h2 {
-    font-size: 2.8rem;
-    font-weight: 900;
-}
 
-.sec-one p {
-    font-size: 1.3rem;
-    font-weight: 400;
-}
 
-.sec-two {
-    position: relative;
-
-}
 
 #tv-screen {
     height: 62vh;
+    width: 42vw;
 
 }
 
@@ -226,21 +211,7 @@ body {
     height: 57vh;
 }
 
-.second-sec h2 {
-    font-size: 2.9rem;
-    font-weight: 900;
-}
 
-.second-sec p {
-    font-size: 1.4rem;
-    font-weight: 400;
-}
-
-.second-sec {
-    position: relative;
-    top: 10%;
-    
-}
 
 .sec-3 {
     width: 50%;
